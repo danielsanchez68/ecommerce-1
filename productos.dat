@@ -1,0 +1,24 @@
+[
+	{
+		"nombre": "ertre",
+		"precio": "363",
+		"stock": "3636",
+		"marca": "dyhdey",
+		"categoria": "eryery",
+		"detalles": "eryre",
+		"foto": "eryrey",
+		"envio": true,
+		"id": "1"
+	},
+	{
+		"nombre": "dfsgds",
+		"precio": "3434",
+		"stock": "334634",
+		"marca": "sgs",
+		"categoria": "sdg",
+		"detalles": "sdg",
+		"foto": "sdg",
+		"envio": false,
+		"id": 3
+	}
+]
